@@ -9,7 +9,7 @@ title: Obchodní podmínky junior.guru
   </p>
 </header>
 
-Abych vám mohl kvalitně a efektivně poskytovat své služby, nachystal jsem pro vás tyto obchodní podmínky. Umožňují mi určit část obsahu kupních smluv, které by jinak bylo těžké podepisovat s každým kupujícím zvlášť. Přitom platí, že pokud obchodní podmínky stanoví něco jiného než smlouva, má smlouva vždy přednost. Tyto podmínky jsou platné a účinné od **1\. 2. 2021**.
+Abych vám mohl kvalitně a efektivně poskytovat své služby, nachystal jsem pro vás tyto obchodní podmínky. Umožňují mi určit část obsahu kupních smluv, které by jinak bylo těžké podepisovat s každým kupujícím zvlášť. Přitom platí, že pokud obchodní podmínky stanoví něco jiného než smlouva, má smlouva vždy přednost. Tyto podmínky jsou platné a účinné od **1\. 6. 2021**.
 
 ## Poskytovatel služeb
 
@@ -86,6 +86,10 @@ E-mail: [ahoj@junior.guru](mailto:ahoj@junior.guru)<br>
 
 **3.3.** Mimo vouchery na členství v diskuzním klubu pro dohodnutý počet osob, jsem oprávněn společnostem poskytovat také jiné specifické služby (např. reklamní prostor, umístění loga aj.) dle individuální dohody.
 
+**3.4** V případech, kdy budou společnosti sděleny údaje o zákaznících čerpajících členství na základě voucheru společnosti, zavazuje se společnost tyto údaje užít pouze ke kontrole, zda nedošlo ke zneužití voucheru. Společnost se v této souvislosti dále zavazuje dodržovat zásady ochrany osobních údajů zákazníků a bere na vědomí, že údaje takto získané, nesmí v žádném případě užít k marketingovým či obdobným účelům.
+
+**3.5.** V případě, že společnost zjistí zneužití voucheru, je tuto skutečnost povinna oznámit poskytovateli bez zbytečného odkladu, nejpozději do sedmi dní.
+
 ## 4\. Cena za služby a platební podmínky
 
 **4.1.** Ceny za mé služby jsou smluvní. Na stránkách vždy najdete aktuální a platné ceny v české měně (Kč). Ceny jsou konečné včetně dalších daní a poplatků.
@@ -95,6 +99,7 @@ E-mail: [ahoj@junior.guru](mailto:ahoj@junior.guru)<br>
 **4.3.** Cenu za služby a případné další náklady můžete uhradit následujícími způsoby:
 
 *   Bezhotovostně platební kartou,
+*   voucherem,
 *   jiným způsobem pouze pokud je individuálně dohodnuto.
 
 **4.4.** Bezhotovostní platba kartou je uživatelsky automaticky nastavena jako opakující se platba v případě měsíčního i ročního digitálního předplatného. Člen klubu může kdykoliv toto nastavení v klientské sekci změnit.
@@ -105,15 +110,17 @@ E-mail: [ahoj@junior.guru](mailto:ahoj@junior.guru)<br>
 
 **4.7.** Akční ceny platí do vyprodání kapacity při uvedení počtu nebo po časově určenou dobu. Uváděná původní cena znamená cenu služeb, za niž jsou předmětné služby nabízeli bez zohlednění slevových akcí.
 
-**4.8.** Vyhrazuji si právo prohlásit kupní smlouvu za neplatnou, pokud při objednávce došlo ke zneužití osobních údajů, platební karty, slevového či dárkového poukazu apod. Pokud by tato situace nastala, budu vás o tom neprodleně informovat.
+**4.8.** Vyhrazuji si právo prohlásit kupní smlouvu za neplatnou, či pozastavit členství, pokud při objednávce došlo ke zneužití osobních údajů, platební karty, slevového či dárkového poukazu apod. Pokud by tato situace nastala, budu vás o tom neprodleně informovat.
 
 **4.9.** Ohledně platby na základě kupní smlouvy kupujícímu vystavím fakturu. Tuto vystavuji po uhrazení ceny služeb a zašlu vám ji v digitální podobě na vaši e-mailovou adresu.
+
+**4.10.** V případě úhrady služeb pomocí voucheru, budou údaje o kupujícím sdělena Společnosti, která voucher poskytla. Kupující tuto skutečnost bere na vědomí a úhradou předplatného pomocí voucheru s ní souhlasí. Data jsou společnosti sdělována z důvodu, aby mohla zkontrolovat, že nedošlo ke zneužití voucheru, a že výhody z něj vyplývající, čerpá oprávněná osoba.
 
 ## 5\. Realizace služeb
 
 **5.1.** Digitální předplatné je zajišťováno formou zpřístupnění diskuzního klubu zákazníkovi. Zpřístupnění digitálního předplatného je zajištěno prostřednictvím přístupových údajů k uživatelskému účtu, konkrétně uživatelského jména (loginu) a hesla a následnou registrací či přihlášením do služby Discord.
 
-**5.2.** Digitální předplatné je dostupné jako měsíční či roční předplatné.
+**5.2.** Digitální předplatné je dostupné jako měsíční či roční předplatné. V případech dle kapitoly 3 těchto podmínek (objednávky ze strany společnosti) si vyhrazuji právo sjednat délku předplatného individuálně.
 
 **5.3.** Vyhrazuji si možnost zřídit specifické typy digitálního předplatného s rozšířeným či naopak omezeným přístupem do specifických sekcí diskuzního klubu.
 

@@ -44,7 +44,11 @@ U osob odebírajících [newsletter](https://eepurl.com/gyG8Bb) je uchováván e
 
 Jedná se o osobní údaje jednotlivých členů [klubu](/club/) dostupné z [klientské sekce](https://juniorguru.memberful.com/account/). tj. uživatelské jméno, e-mail, domovská země člena a dále údaje o platební kartě člena. K vašim zadaným osobním údajům má vzhledem k charakteru služeb přístup také platforma [Memberful](https://memberful.com/), [Discord](https://discord.com/), [Google Sheets](https://www.google.com/sheets/about/). K údajům o platební kartě má přístup pouze služba [Stripe](https://stripe.com), která zajišťuje bezpečnost a realizaci jednotlivých plateb, mě osobně známy nejsou.
 
-### d. údaje o společnostech a individuální objednávky
+### d. údaje zákazníků, hradících služby pomocí voucheru
+
+V případě, že zákazník zvolí úhradu předplatného pomocí voucheru, dává tím souhlas k tomu, aby informace o jeho osobě, konkrétně o jméně, příjmení a e-mailové adrese, byly sděleny té společnosti, která voucher zprostředkovala. Tyto údaje slouží pouze ke kontrole ze strany společnosti, že nedošlo ke zneužití voucheru, a že výhody z něj vyplývající, čerpá oprávněná osoba.
+
+### e. údaje o společnostech a individuální objednávky
 
 V případě objednávek se specifickými podmínkami (typicky se bude jednat např. o objednání digitálního předplatného pro více osob ze strany společnosti) jsou evidovány potřebné fakturační údaje jako jsou: jméno/název společnosti, adresa bydliště/sídla společnosti, datum narození/IČO, DIČ, číslo účtu kupujícího, e-mailová adresa, případně telefon.
 
